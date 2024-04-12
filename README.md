@@ -1,1 +1,1 @@
-# QR-Code
+# QR-Scanner
